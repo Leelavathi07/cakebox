@@ -1014,3 +1014,148 @@
 15:43:07.325 Spec file removed: C:\Users\lktr\Infoblitz_Demo\specs\demo.spec
 15:43:07.326 Spec file added / modified: C:\Users\lktr\Infoblitz_Demo\specs\demo.spec
 23:55:16.924 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+19:52:42.908 Unable to send analytics data, timed out
+19:52:42.952 Unable to send analytics data, Post https://www.google-analytics.com/collect: dial tcp: lookup www.google-analytics.com: no such host
+11:50:57.851 Unable to send analytics data, Post https://www.google-analytics.com/collect: EOF
+14:29:49.886 Watching directory: C:\Users\lktr\Infoblitz_Demo\specs
+14:29:49.887 Found 3 files
+14:29:49.888 Watching directory: C:\Users\lktr\Infoblitz_Demo\specs\concepts
+14:29:49.888 Found 1 files
+14:29:49.917 Initializing concepts cache with 1 concepts
+14:29:49.917 Adding concepts from C:\Users\lktr\Infoblitz_Demo\specs\concepts\common.cpt
+14:29:49.927 Initializing specs cache with 2 specs
+14:29:49.927 Adding specs from C:\Users\lktr\Infoblitz_Demo\specs\demo.spec
+14:29:49.927 Adding specs from C:\Users\lktr\Infoblitz_Demo\specs\example.spec
+14:29:49.927 Initializing steps cache with 3 steps
+14:29:49.927 Gauge daemon initialized and listening on port: 49997
+14:57:51.159 Unable to send analytics data, timed out
+15:53:51.159 Unable to send analytics data, timed out
+16:19:16.663 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website \"URL\"" > 
+16:19:16.665 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+16:19:16.666 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+16:19:16.666 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+16:19:16.666 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+16:19:16.666 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+16:19:16.667 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+16:19:16.667 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+16:19:16.667 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+16:19:16.667 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+16:19:16.667 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+16:19:16.667 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+16:19:16.668 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+16:19:16.668 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+16:19:16.886 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+16:19:16.886 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+16:19:16.886 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+16:19:16.886 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+16:19:16.886 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+16:19:16.886 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+16:19:16.886 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+16:19:16.886 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+16:19:16.887 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+16:19:16.887 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+16:19:16.887 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+16:19:16.887 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+16:19:16.887 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+16:19:16.887 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+16:19:16.887 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+16:19:16.887 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+16:19:16.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+16:19:16.888 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+16:19:16.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+16:19:16.888 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+16:19:16.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+16:19:16.888 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+16:19:16.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+16:19:16.888 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+16:19:16.888 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+16:19:16.888 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+16:19:16.889 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+16:19:16.889 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+16:19:16.889 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+16:19:16.889 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+16:19:16.889 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+16:19:16.890 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+16:19:16.890 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+16:19:16.890 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+16:19:16.890 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+16:19:16.890 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+16:19:16.890 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+16:19:16.890 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+16:19:16.891 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+16:19:16.891 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+16:19:16.891 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+16:19:16.891 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+16:19:16.891 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+16:19:16.891 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+16:19:16.891 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+16:19:16.892 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+16:19:16.892 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+16:19:16.892 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+16:19:16.892 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+16:19:16.892 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+16:19:16.892 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+16:19:16.892 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+16:19:16.892 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+16:19:16.892 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+16:19:16.893 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+16:19:16.893 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+16:19:16.893 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+16:19:16.893 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+16:19:16.893 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+16:19:16.893 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+16:19:16.938 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter \"EMAILID\" and \"PASSWORD\" to login" > 
+16:19:16.939 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+10:33:51.167 Unable to send analytics data, timed out
+13:04:15.562 Unable to send analytics data, timed out
+13:21:51.158 Unable to send analytics data, timed out
+13:49:51.159 Unable to send analytics data, timed out
+14:45:51.158 Unable to send analytics data, timed out
+14:46:25.791 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are \"aeiou\"." > 
+14:46:25.801 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <aeiou>." parameters:"aeiou" > > 
+14:46:25.822 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+14:46:25.823 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+14:46:25.832 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word \"gauge\" has \"3\" vowels." > 
+14:46:25.832 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <gauge> has <3> vowels." parameters:"gauge" parameters:"3" > > 
+14:46:25.835 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+14:46:25.835 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+14:46:25.854 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels" hasInlineTable:true > 
+14:46:25.854 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <table>" parameters:"table" > > 
+14:46:25.856 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+14:46:25.856 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+14:47:50.744 Spec file removed: C:\Users\lktr\Infoblitz_Demo\specs\demo.spec
+14:47:50.745 Spec file added / modified: C:\Users\lktr\Infoblitz_Demo\specs\demo.spec
+14:55:34.219 Watching directory: C:\Users\lktr\Infoblitz_Demo\specs
+14:55:34.221 Found 3 files
+14:55:34.222 Watching directory: C:\Users\lktr\Infoblitz_Demo\specs\concepts
+14:55:34.222 Found 1 files
+14:55:34.251 Initializing concepts cache with 1 concepts
+14:55:34.251 Adding concepts from C:\Users\lktr\Infoblitz_Demo\specs\concepts\common.cpt
+14:55:34.257 Initializing specs cache with 2 specs
+14:55:34.257 Adding specs from C:\Users\lktr\Infoblitz_Demo\specs\demo.spec
+14:55:34.257 Adding specs from C:\Users\lktr\Infoblitz_Demo\specs\example.spec
+14:55:34.257 Initializing steps cache with 3 steps
+14:55:34.257 Gauge daemon initialized and listening on port: 50885
+14:55:34.266 Unable to send analytics data, Post https://www.google-analytics.com/collect: EOF
+14:56:00.037 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart" hasInlineTable:true > 
+14:56:00.039 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+14:56:00.040 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website \"URL\"" > 
+14:56:00.040 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+14:56:01.119 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+14:56:01.119 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+14:56:01.119 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+14:56:01.119 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+14:56:01.120 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+14:56:01.120 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+14:56:01.121 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+14:56:01.121 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+14:56:01.122 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+14:56:01.122 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+14:56:01.123 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+14:56:01.123 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+14:56:01.411 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter \"EMAILID\" and \"PASSWORD\" to login" > 
+14:56:01.411 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+14:56:01.523 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+14:56:01.524 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+14:56:01.535 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+14:56:01.535 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 

@@ -1,5 +1,6 @@
 package web.pages;
 
+import com.thoughtworks.gauge.Gauge;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;

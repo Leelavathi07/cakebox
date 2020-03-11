@@ -2523,3 +2523,390 @@ Total time taken: 1m1.169s
 12:55:17.684 
 Total time taken: 30.839s
 12:55:17.685 Updates are available. Run `gauge update -c` for more info.
+15:50:15.579 Plugin java is already installed.
+15:50:15.584 Plugin html-report is already installed.
+15:50:15.851 Checking updates...
+15:50:15.855 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+15:50:16.564 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+15:50:16.751 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+15:50:20.114 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+15:50:20.115 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+15:50:20.123 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+15:50:20.123 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+15:50:20.124 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+15:50:20.124 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:50:20.124 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+15:50:20.124 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+15:50:20.124 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+15:50:20.125 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+15:50:20.125 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+15:50:20.125 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+15:50:20.126 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+15:50:20.126 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:50:20.126 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+15:50:20.126 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:50:20.126 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+15:50:20.126 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+15:50:20.127 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+15:50:20.127 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+15:50:20.127 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+15:50:20.127 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+15:50:32.767 Closing connection [127.0.0.1:59844] cause: EOF
+15:50:32.811 Plugin [Html Report] with pid [28936] has exited
+15:50:32.973 Closing connection [127.0.0.1:59841] cause: read tcp 127.0.0.1:59835->127.0.0.1:59841: wsarecv: An existing connection was forcibly closed by the remote host.
+15:50:33.114 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:50:33.114 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:50:33.114 
+Total time taken: 12.532s
+15:50:33.115 Updates are available. Run `gauge update -c` for more info.
+15:50:53.021 Plugin java is already installed.
+15:50:53.022 Plugin html-report is already installed.
+15:50:53.250 Checking updates...
+15:50:53.254 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+15:50:53.888 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+15:50:54.080 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+15:50:56.695 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+15:50:56.696 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+15:50:56.705 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+15:50:56.706 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+15:50:56.706 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+15:50:56.706 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+15:50:56.706 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+15:50:56.706 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+15:50:56.707 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+15:50:56.707 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+15:50:56.707 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+15:50:56.707 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+15:50:56.707 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+15:50:56.707 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+15:50:56.708 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+15:50:56.708 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+15:50:56.708 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+15:50:56.708 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+15:50:56.708 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+15:50:56.708 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+15:50:56.709 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+15:50:56.709 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+15:51:54.592 Closing connection [127.0.0.1:59932] cause: EOF
+15:51:54.667 Plugin [Html Report] with pid [38804] has exited
+15:51:54.677 Closing connection [127.0.0.1:59924] cause: read tcp 127.0.0.1:59919->127.0.0.1:59924: wsarecv: An existing connection was forcibly closed by the remote host.
+15:51:54.768 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:51:54.768 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:51:54.768 
+Total time taken: 57.809s
+15:51:54.769 Updates are available. Run `gauge update -c` for more info.
+16:02:23.699 Plugin java is already installed.
+16:02:23.701 Plugin html-report is already installed.
+16:02:23.999 Checking updates...
+16:02:24.001 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:02:24.654 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:02:24.865 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:02:24.886 Runner connection error: Runner with pid 38568 quit unexpectedly(exit status 1).
+16:02:24.886 Error while killing runner: invalid argument
+16:02:24.888 Failed to start gauge API: Runner with pid 38568 quit unexpectedly(exit status 1).
+16:04:01.143 Plugin java is already installed.
+16:04:01.145 Plugin html-report is already installed.
+16:04:01.314 Checking updates...
+16:04:01.317 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:04:01.929 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:04:02.119 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:04:02.166 Runner connection error: Runner with pid 33264 quit unexpectedly(exit status 1).
+16:04:02.166 Error while killing runner: invalid argument
+16:04:02.167 Failed to start gauge API: Runner with pid 33264 quit unexpectedly(exit status 1).
+16:07:22.093 Plugin java is already installed.
+16:07:22.095 Plugin html-report is already installed.
+16:07:22.323 Checking updates...
+16:07:22.326 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:07:22.962 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:07:23.093 Runner connection error: Runner with pid 39844 quit unexpectedly(exit status 1).
+16:07:23.093 Error while killing runner: invalid argument
+16:07:23.094 Failed to start gauge API: Runner with pid 39844 quit unexpectedly(exit status 1).
+16:07:40.100 Plugin java is already installed.
+16:07:40.102 Plugin html-report is already installed.
+16:07:40.291 Checking updates...
+16:07:40.293 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:07:40.957 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:07:41.141 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:07:41.162 Runner connection error: Runner with pid 40016 quit unexpectedly(exit status 1).
+16:07:41.162 Error while killing runner: invalid argument
+16:07:41.163 Failed to start gauge API: Runner with pid 40016 quit unexpectedly(exit status 1).
+16:08:29.075 Plugin java is already installed.
+16:08:29.077 Plugin html-report is already installed.
+16:08:29.326 Checking updates...
+16:08:29.329 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:08:29.956 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:08:30.140 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:08:30.254 Runner connection error: Runner with pid 35936 quit unexpectedly(exit status 1).
+16:08:30.254 Error while killing runner: invalid argument
+16:08:30.255 Failed to start gauge API: Runner with pid 35936 quit unexpectedly(exit status 1).
+16:12:03.585 Plugin html-report is already installed.
+16:12:03.586 Plugin java is already installed.
+16:12:04.263 Checking updates...
+16:12:04.266 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:12:04.707 Runner connection error: Runner with pid 5680 quit unexpectedly(exit status 1).
+16:12:04.707 Error while killing runner: invalid argument
+16:12:04.709 Failed to start gauge API: Runner with pid 5680 quit unexpectedly(exit status 1).
+16:22:50.492 Plugin java is already installed.
+16:22:50.494 Plugin html-report is already installed.
+16:22:50.692 Checking updates...
+16:22:50.694 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:22:51.370 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:22:51.554 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:22:51.600 Runner connection error: Runner with pid 6800 quit unexpectedly(exit status 1).
+16:22:51.600 Error while killing runner: invalid argument
+16:22:51.601 Failed to start gauge API: Runner with pid 6800 quit unexpectedly(exit status 1).
+12:03:45.111 Plugin java is already installed.
+12:03:45.116 Plugin html-report is already installed.
+12:03:45.580 Checking updates...
+12:03:45.587 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:03:46.755 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:03:46.975 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:03:47.610 Runner connection error: Runner with pid 38300 quit unexpectedly(exit status 1).
+12:03:47.610 Error while killing runner: invalid argument
+12:03:47.613 Failed to start gauge API: Runner with pid 38300 quit unexpectedly(exit status 1).
+12:28:27.645 Plugin java is already installed.
+12:28:27.648 Plugin html-report is already installed.
+12:28:28.452 Checking updates...
+12:28:28.459 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:28:29.613 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:28:29.876 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:28:30.022 Runner connection error: Runner with pid 21584 quit unexpectedly(exit status 1).
+12:28:30.022 Error while killing runner: invalid argument
+12:28:30.025 Failed to start gauge API: Runner with pid 21584 quit unexpectedly(exit status 1).
+12:29:02.579 Plugin java is already installed.
+12:29:02.582 Plugin html-report is already installed.
+12:29:03.026 Checking updates...
+12:29:03.031 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:29:04.293 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:29:04.511 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:29:04.579 Runner connection error: Runner with pid 29764 quit unexpectedly(exit status 1).
+12:29:04.579 Error while killing runner: invalid argument
+12:29:04.581 Failed to start gauge API: Runner with pid 29764 quit unexpectedly(exit status 1).
+12:48:03.997 Plugin html-report is already installed.
+12:48:04.002 Plugin java is already installed.
+12:48:04.479 Checking updates...
+12:48:04.485 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:48:05.718 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:48:05.947 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+12:48:11.519 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+12:48:11.520 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+12:48:11.537 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+12:48:11.537 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+12:48:11.538 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+12:48:11.538 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+12:48:11.538 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+12:48:11.538 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+12:48:11.539 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+12:48:11.539 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+12:48:11.540 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+12:48:11.540 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+12:48:11.541 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+12:48:11.541 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+12:48:11.541 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+12:48:11.542 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+12:48:11.542 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+12:48:11.542 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+12:48:11.543 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+12:48:11.543 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+12:48:11.544 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+12:48:11.544 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+13:25:29.032 Plugin java is already installed.
+13:25:29.036 Plugin html-report is already installed.
+13:25:29.457 Checking updates...
+13:25:29.464 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+13:25:30.721 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+13:25:30.957 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+13:25:31.756 Runner connection error: Runner with pid 34280 quit unexpectedly(exit status 1).
+13:25:31.756 Error while killing runner: invalid argument
+13:25:31.764 Failed to start gauge API: Runner with pid 34280 quit unexpectedly(exit status 1).
+16:32:31.769 Plugin java is already installed.
+16:32:31.772 Plugin html-report is already installed.
+16:32:32.090 Checking updates...
+16:32:32.093 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:32:33.216 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:32:33.235 Runner connection error: Runner with pid 40808 quit unexpectedly(exit status 1).
+16:32:33.235 Error while killing runner: invalid argument
+16:32:33.238 Failed to start gauge API: Runner with pid 40808 quit unexpectedly(exit status 1).
+16:36:21.550 Plugin java is already installed.
+16:36:21.552 Plugin html-report is already installed.
+16:36:21.854 Checking updates...
+16:36:21.857 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+16:36:22.612 Runner connection error: Runner with pid 39888 quit unexpectedly(exit status 1).
+16:36:22.612 Error while killing runner: invalid argument
+16:36:22.613 Failed to start gauge API: Runner with pid 39888 quit unexpectedly(exit status 1).
+17:02:18.960 Plugin java is already installed.
+17:02:18.962 Plugin html-report is already installed.
+17:02:19.956 Checking updates...
+17:02:19.960 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+17:02:21.143 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+17:02:21.366 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+17:02:24.662 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+17:02:24.663 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+17:02:24.675 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+17:02:24.675 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+17:02:24.676 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+17:02:24.676 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+17:02:24.677 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+17:02:24.677 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+17:02:24.678 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+17:02:24.678 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+17:02:24.678 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+17:02:24.678 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+17:02:24.679 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+17:02:24.679 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+17:02:24.680 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+17:02:24.680 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+17:02:24.680 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+17:02:24.680 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+17:02:24.681 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+17:02:24.681 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+17:02:24.681 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+17:02:24.681 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+11:24:41.136 Plugin java is already installed.
+11:24:41.139 Plugin html-report is already installed.
+11:24:42.003 Checking updates...
+11:24:42.006 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+11:24:42.994 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+11:24:42.996 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+11:24:43.007 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+11:24:43.007 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+11:24:43.007 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+11:24:43.008 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+11:24:43.008 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+11:24:43.008 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+11:24:43.009 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+11:24:43.009 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+11:24:43.009 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+11:24:43.009 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+11:24:43.010 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+11:24:43.010 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+11:24:43.010 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+11:24:43.010 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+11:24:43.010 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+11:24:43.010 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+11:24:43.011 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+11:24:43.011 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+11:24:43.011 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+11:24:43.011 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+11:24:43.422 # Customer Registration
+11:24:43.424 ## 1.Login customer
+11:24:43.527 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+11:24:43.773 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+11:24:55.388 * Open Cake box website {}
+11:25:05.529 Failed Step: Open Cake box website "URL"
+11:25:05.529 Error Message: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.132)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'UKLO5CG8363W6R', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.132, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\lktr\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59437}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e028471e4d99775f110228c125884d56
+11:25:05.529 Specification: specs\demo.spec:6
+11:25:05.529 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+web.utils.commonUtils.screenshot(commonUtils.java:78)
+web.pages.commonSteps.openURL(commonSteps.java:18)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:130)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:748)
+11:25:09.609 # Specification Heading
+11:25:09.609 ## Vowel counts in single word
+11:25:09.611 * Vowels in English language are {}.
+
+11:25:09.611 * The word {} has {} vowels.
+
+11:25:09.791 ## Vowel counts in multiple word
+11:25:09.791 * Vowels in English language are {}.
+
+11:25:09.793 * Almost all words have vowels {}
+11:25:14.307 Closing connection [127.0.0.1:59433] cause: read tcp 127.0.0.1:59432->127.0.0.1:59433: wsarecv: An existing connection was forcibly closed by the remote host.
+11:25:14.361 Plugin [Html Report] with pid [28724] has exited
+11:25:14.520 Closing connection [127.0.0.1:59430] cause: read tcp 127.0.0.1:59427->127.0.0.1:59430: wsarecv: An existing connection was forcibly closed by the remote host.
+11:25:14.662 Specifications:	2 executed	1 passed	1 failed	0 skipped
+11:25:14.662 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+11:25:14.662 
+Total time taken: 31.188s
+11:25:14.663 Updates are available. Run `gauge update -c` for more info.
+11:25:27.325 Plugin java is already installed.
+11:25:27.326 Plugin html-report is already installed.
+11:25:27.664 Checking updates...
+11:25:27.668 Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+11:25:28.799 Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+11:25:29.010 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter cake details and Add to Cart <table>" > 
+11:25:29.011 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter cake details and Add to Cart {}" parameterizedStepValue:"Enter cake details and Add to Cart <table>" parameters:"table" > > 
+11:25:29.017 Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot&o=windows&a=amd64
+11:25:29.026 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login link" > 
+11:25:29.026 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login link" parameterizedStepValue:"Click on Login link" > > 
+11:25:29.026 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+11:25:29.026 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+11:25:29.027 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Login button" > 
+11:25:29.027 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Login button" parameterizedStepValue:"Click on Login button" > > 
+11:25:29.027 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Delete items from cart" > 
+11:25:29.027 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Delete items from cart" parameterizedStepValue:"Delete items from cart" > > 
+11:25:29.028 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <EMAILID> and <PASSWORD> to login" > 
+11:25:29.028 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} and {} to login" parameterizedStepValue:"Enter <EMAILID> and <PASSWORD> to login" parameters:"EMAILID" parameters:"PASSWORD" > > 
+11:25:29.028 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+11:25:29.028 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+11:25:29.029 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+11:25:29.029 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+11:25:29.029 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select Kids Cake category" > 
+11:25:29.029 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select Kids Cake category" parameterizedStepValue:"Select Kids Cake category" > > 
+11:25:29.029 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Verify all items are deleted from cart" > 
+11:25:29.030 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Verify all items are deleted from cart" parameterizedStepValue:"Verify all items are deleted from cart" > > 
+11:25:29.030 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Cake box website <URL>" > 
+11:25:29.030 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Cake box website {}" parameterizedStepValue:"Open Cake box website <URL>" parameters:"URL" > > 
+11:25:29.167 # Customer Registration
+11:25:29.170 ## 1.Login customer
+11:25:40.758 * Open Cake box website {}
+11:26:15.480 * Click on Login link
+11:26:16.933 * Enter {} and {} to login
+11:26:21.670 * Click on Login button
+11:26:28.616 * Select Kids Cake category
+11:26:48.629 * Enter cake details and Add to Cart {}
+11:26:56.789 * Delete items from cart
+11:27:03.924 * Verify all items are deleted from cart
+
+11:27:08.671 # Specification Heading
+11:27:08.672 ## Vowel counts in single word
+11:27:08.673 * Vowels in English language are {}.
+
+11:27:08.674 * The word {} has {} vowels.
+
+11:27:08.952 ## Vowel counts in multiple word
+11:27:08.953 * Vowels in English language are {}.
+
+11:27:08.955 * Almost all words have vowels {}
+11:27:09.561 Closing connection [127.0.0.1:59513] cause: EOF
+11:27:09.584 Plugin [Html Report] with pid [12076] has exited
+11:27:09.597 Closing connection [127.0.0.1:59511] cause: read tcp 127.0.0.1:59507->127.0.0.1:59511: wsarecv: An existing connection was forcibly closed by the remote host.
+11:27:09.684 Specifications:	2 executed	2 passed	0 failed	0 skipped
+11:27:09.684 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+11:27:09.684 
+Total time taken: 1m40.38s
+11:27:09.685 Updates are available. Run `gauge update -c` for more info.

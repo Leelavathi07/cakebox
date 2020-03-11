@@ -1,11 +1,7 @@
 {
 	"Args": [
 		"run",
-		"--machine-readable",
-		"--hide-suggestion",
-		"--simple-console"
+		"--dir=C:\\Users\\lktr\\Infoblitz_Demo"
 	],
-	"FailedItems": [
-		"specs\\demo.spec:4"
-	]
+	"FailedItems": []
 }

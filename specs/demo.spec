@@ -1,8 +1,8 @@
-Customer Registration
-=====================
+Cake purchase
+==============
 
-1.Login customer
-------------------------
+1.Cart functionalities(Add & Delete)
+------------------------------------
 *Open Cake box website "URL"
 *Click on Login link
 *Enter "EMAILID" and "PASSWORD" to login
