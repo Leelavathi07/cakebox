@@ -1,6 +1,8 @@
 [
-	"gauge",
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
 	"run",
-	"--dir=C:\\Users\\lktr\\Infoblitz_Demo",
-	"C:\\Users\\lktr\\Infoblitz_Demo\\specs"
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"C:/Users/lktr/Infoblitz_Demo/specs/demo.spec:4"
 ]
